@@ -1,0 +1,136 @@
+.background{
+    z-index: -100;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    min-height:100%;
+    min-width: 100%;
+}
+
+.nav-item{
+    color: white;
+    font-weight: bolder;
+}
+
+.f{
+    font-size:  50px;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+}
+
+.o{
+    color: white;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    height: 10vh;
+}
+
+#e-mail{
+    border: none;
+    border-bottom: #edfffd solid 2px;
+    color: black;
+    padding: 22px;
+    width: 32%;
+    fill: none;
+    background: transparent;
+    font-weight: bold;
+
+
+}
+#message{
+    border: none;
+    border-bottom: #edfffd solid 2px;
+    color: black;
+    padding: 22px;
+    width: 32%;
+    fill: none;
+    background: transparent;
+
+}
+#name{
+    border: none;
+    border-bottom: #edfffd solid 2px;
+    color: black;
+    padding: 22px;
+    width: 32%;
+    fill: none;
+    background: transparent;
+
+}
+label{
+    color: white;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    width: 100px;
+    height: 40px;
+    font-size: 11px;
+
+    color: white;
+    border: none;
+
+}
+.kutu{
+    fill: none;
+    height:400px;
+    padding:15px;
+    background:transparent;
+
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.form-group{
+    fill: none;
+    height:400px;
+    padding:15px;
+    background:transparent;
+
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    border: none;
+
+}
+.a{
+    height: 20vh;
+    color: white;
+}
+
+.b{
+    height: 20vh;
+}
+
+.c{
+    height: 20vh;
+    color: white;
+}
+
+.p{
+    height: 10vh;
+}
+
+.q{
+    height: 10vh;
+}
+
+.r{
+    height: 10vh;
+}
+
+.v{
+    color: white;
+ }
+
+li{
+    color: white;
+    font-weight: bolder;
+}

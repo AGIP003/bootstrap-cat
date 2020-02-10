@@ -1,0 +1,51 @@
+.background{
+    z-index: -100;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    min-height:100%;
+    min-width: 100%;
+}
+
+button{
+    justify-content: center;
+    align-content: center;
+    background-color: transparent;
+
+    font-size: 10px;
+    color: white;
+}
+
+.a{
+    height: 30vh;
+  }
+
+.b{
+    height: 30vh;
+
+}
+
+.c{
+    height: 30vh;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.e{
+    justify-content: center;
+    align-content: center;
+    color: white;
+    text-align: center ;
+    font-family: sans-serif;
+
+}
+li{
+    color: white;
+}
